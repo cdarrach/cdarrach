@@ -1,14 +1,5 @@
 
 
-<br/>
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=cdarrach&show_icons=true&theme=prussian)
-![github stats](https://github-readme-stats.vercel.app/api?username=cdarrach&show_icons=true&theme=prussian)
-
-<br/>
-<br/>  
-
-
 ## Skill Set  
 <div align="center">  
 
