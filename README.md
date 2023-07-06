@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Caitlyn - a STEM educator, former physics researcher, and aspiring data analyst/scientist that likes to work on interesting projects.
+👋 Hi, I’m Caitlyn - a STEM educator, former underground physics researcher, and aspiring data analyst/scientist that likes to work on interesting projects.
 
 You can reach me at: 
 
