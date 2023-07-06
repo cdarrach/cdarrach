@@ -1,6 +1,6 @@
 
 👋 Hi, I’m Caitlyn
-I'm a STEM educator, former physics researcher and aspiring data analyst/scientist that likes to work on interesting projects.
+I'm a STEM educator, former physics researcher, and aspiring data analyst/scientist that likes to work on interesting projects.
 
 You can reach me at:
 
