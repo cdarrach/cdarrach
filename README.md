@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Caitlyn Darrach (She/Her)
+# 👋 Hi, I'm Caitlyn
 
 I'm an emerging data professional with a background in **experimental particle astrophysics** (MSc) with experience working with **large/messy research datasets, educational program metrics, and early-stage prototype development**. I enjoy finding useful insights from data, innovating, and continuously improving my technical toolkit through hands-on projects and independent coursework. 
 
