@@ -9,7 +9,6 @@ I'm an emerging data professional with a background in **experimental particle a
 - Building a small collection of **data engineering projects** (Python + pandas/SQL-based workflows)
 - Expanding my understanding of **ETL workflows, data validation, and migration processes**
 - Developing an early-stage **React prototype** for an educational mobile app concept
-- Debugging best practices
 
 ---
 
@@ -43,18 +42,18 @@ I'm an emerging data professional with a background in **experimental particle a
 ---
 
 ### I'm motivated by:
-- Turning complex data into validated, clear insights for evidence-based decision-making
+- Turning **complex data into validated, clear insights** for evidence-based decision-making
 - Contributing to teams that value **quality, clarity, and long-term impact**
-- Learning through experimentation, iteration, and curiosity
-- Solving interesting puzzles and problems
-- Innovating and creating new devices/processes/etc. that are useful
+- Learning through **experimentation, iteration, and curiosity**
+- Solving interesting **puzzles and problems**
+- **Innovating** and creating new devices/processes/etc. that are useful
 - Encouraging **STEM education and inquiry-driven learning**  
 
 ---
 
 ### Thanks for reading!
 - Feel free to explore my latest project repos or reach out on LinkedIn as I'm happy to connect or collaborate!
-- Based in Charlottetown, PEI | Open to remote/hybrid roles in data analytics, engineering or technical learning pathways
+- Based in **Charlottetown, PEI** | Open to **remote/hybrid roles in data analytics, engineering** or technical learning pathways
 <div align="center"><a href="https://www.linkedin.com/in/cdarrach/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
