@@ -42,7 +42,7 @@ I'm an emerging data professional with a background in **experimental particle a
 
 ---
 
-### Motivated by:
+### I'm motivated by:
 ✔ Turning complex data into validated, clear insights for evidence-based decision-making
 ✔ Contributing to teams that value **quality, clarity, and long-term impact**  
 ✔ Learning through experimentation, iteration, and curiosity  
