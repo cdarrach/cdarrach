@@ -53,8 +53,8 @@ I'm an emerging data professional with a background in **experimental particle a
 ---
 
 ### Thanks for reading!
-Feel free to explore my latest project repos or reach out on LinkedIn as I'm happy to connect or collaborate!
-📍 Based in Charlottetown, PEI | Open to remote/hybrid roles in data analytics, engineering or technical learning pathways
+- Feel free to explore my latest project repos or reach out on LinkedIn as I'm happy to connect or collaborate!
+- Based in Charlottetown, PEI | Open to remote/hybrid roles in data analytics, engineering or technical learning pathways
 <div align="center"><a href="https://www.linkedin.com/in/cdarrach/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
