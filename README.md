@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Caitlyn
 
-I'm an emerging data professional with a background in **experimental particle astrophysics** (MSc) with experience working with **large/messy research datasets, educational program metrics, and early-stage prototype development**. I enjoy finding useful insights from data, innovating, and continuously improving my technical toolkit through hands-on projects and independent coursework. 
+I'm an emerging data professional with a background in **experimental particle astrophysics** (MSc) and experience working with **large/messy research datasets, educational program metrics, and early-stage prototype development**. I enjoy finding useful insights from data, innovating, and continuously improving my technical toolkit through hands-on projects and independent coursework. 
 
 ---
 
@@ -47,13 +47,13 @@ I'm an emerging data professional with a background in **experimental particle a
 - Learning through **experimentation, iteration, and curiosity**
 - Solving interesting **puzzles and problems**
 - **Innovating** and creating new devices/processes/etc. that are useful
-- Encouraging **STEM education and inquiry-driven learning**  
+- Encouraging **STEM education and inquiry-driven learning**
 
 ---
 
 ### Thanks for reading!
 - Feel free to explore my latest project repos or reach out on LinkedIn as I'm happy to connect or collaborate!
-- Based in **Charlottetown, PEI** | Open to **remote/hybrid roles in data analytics, engineering** or technical learning pathways
+- Based in **Charlottetown, PEI** | Open to **remote/hybrid roles in data analytics/engineering/science** or technical learning pathways
 <div align="center"><a href="https://www.linkedin.com/in/cdarrach/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
