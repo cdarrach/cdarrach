@@ -14,30 +14,31 @@ I'm an emerging data professional with a background in **experimental particle a
 
 ### Technical Experience
 
-#### Proficient  (Used repeatedly and independently in research, analysis, or current project work)
+#### Proficient (Used repeatedly and independently in research, analysis, and current project work)
 - **Python** (pandas, NumPy, SciPy, matplotlib, statsmodels, plotly)  
 - **Excel** (cleaning, formulas, KPI tracking, dashboards)  
 - **Git / GitHub**  
-- **Overleaf / LaTeX** (extensive documentation + scientific formatting)  
-- **VS Code**  
+- **Overleaf / LaTeX** (documentation + scientific formatting)  
+- **VS Code**
+- **Jupyter Notebook**  
 - **CLI (zsh, bash)**  
 
-#### Academic Exposure / Foundational Knowledge  (Have worked with them in academic or structured learning settings in the past)
+#### Academic Exposure (Have worked with them in academic/work settings in the past)
 - **C/C++** (research-level data analysis and UI tool programming)  
 - **MATLAB** (undergraduate research use)  
 - **Java** (introductory OOP coursework)  
 - **Linux (Ubuntu environments)**  
 - **OriginPro, ROOT** (physics-focused data visualization)  
-- **LabVIEW** (instrumentation control/UI workflows)  
-- **Mathematica** (symbolic + numerical modeling)  
+- **LabVIEW** (instrumentation control/UI workflows)
+- **Mathematica** (numerical modeling)  
 
-#### Working Knowledge / Actively Developing  (Used in real contexts or prototyping — building comfort)
-- **SQL** (MySQL, PostgreSQL — querying, filtering, joins)  
+#### Basic Knowledge / Actively Developing
+- **SQL** (basics - querying, filtering, joins)  
 - **React** (component-based prototyping, UI exploration)  
 - **Node.js** (runtime environment for JavaScript-based projects)  
 - **BeautifulSoup** (Python-based web scraping)  
 - **TensorFlow, PyTorch** (machine learning fundamentals + coursework models)  
-- **Jupyter Notebook**  
+
 
 ---
 
