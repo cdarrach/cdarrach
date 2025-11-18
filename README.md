@@ -1,5 +1,5 @@
 
-# Hey, I'm Caitlyn
+# Hi, I'm Caitlyn
 
 I'm an emerging data professional with a background in **experimental particle astrophysics** (MSc) and experience working with **large/messy research datasets, educational program metrics, and early-stage prototype development**. I enjoy finding useful insights from data, innovating, and continuously improving my technical skills through hands-on projects and independent coursework. 
 
