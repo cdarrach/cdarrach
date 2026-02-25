@@ -8,7 +8,6 @@ I'm an emerging data professional with a background in **experimental particle a
 ### Currently Working On / Learning
 - Building a small collection of **data engineering projects** (Python + pandas/SQL-based workflows)
 - Expanding understanding of **ETL workflows, data validation, and migration processes**
-- Taking introductory SQL courses
 - Developing an early-stage **React prototype** for an educational mobile app concept
 
 ---
@@ -53,7 +52,7 @@ I'm an emerging data professional with a background in **experimental particle a
 ---
 
 ### Feel free to explore my latest project repos or reach out on LinkedIn as I'm happy to connect or collaborate!
-- Based in **Charlottetown, PEI** | Open to **remote/hybrid roles in data analytics/engineering/science** 
+- Based in **Charlottetown, PEI** | Open to **remote roles in data analytics/engineering/science** 
 <div align="center"><a href="https://www.linkedin.com/in/cdarrach/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
